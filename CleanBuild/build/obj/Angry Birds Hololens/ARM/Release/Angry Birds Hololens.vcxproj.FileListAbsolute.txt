@@ -1,0 +1,23 @@
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\bin\ARM\Release\resources.pri
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\bin\ARM\Release\AppxManifest.xml
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\bin\ARM\Release\Angry Birds Hololens.build.appxrecipe
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\Angry Birds Hololens.vcxproj.AssemblyReference.cache
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\ResourceHandlingTask.state
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\Angry Birds Hololens.vcxproj.GenerateResource.Cache
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\priconfig.xml
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\priconfig.xml.intermediate
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\unfiltered.layout.resfiles
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\unfiltered.layout.resfiles.intermediate
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\filtered.layout.resfiles
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\filtered.layout.resfiles.intermediate
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\excluded.layout.resfiles
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\excluded.layout.resfiles.intermediate
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\resources.resfiles
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\resources.resfiles.intermediate
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\pri.resfiles
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\pri.resfiles.intermediate
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\qualifiers.txt
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\qualifiers.txt.intermediate
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\ProjectArchitectures.txt
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\.winmd_cache\$UnityPlayer.winmd_637702060060000000.json

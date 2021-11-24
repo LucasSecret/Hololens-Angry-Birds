@@ -1,0 +1,6 @@
+#include "il2cpp-config.h"
+#include "D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\BlobReader.cpp"
+#include "D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\Debugger.cpp"
+#include "D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\NativeDelegateMethodCache.cpp"
+#include "D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\NativeSymbol.cpp"
+#include "D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\VmStringUtils.cpp"

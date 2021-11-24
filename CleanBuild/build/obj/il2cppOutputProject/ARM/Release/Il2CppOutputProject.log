@@ -1,0 +1,21 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 15.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\ARM\link.exe
+  	Msvc Compiler Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\ARM\cl.exe
+  
+  	Output directory: D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\bin\ARM\Release
+  	Cache directory: D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\il2cppOutputProject\ARM\Release
+  Assembly-CSharp_CodeGen.c
+  Il2CppMetadataRegistration.c
+  Assembly-CSharp.cpp
+  Il2CppMetadataUsage.c
+  ObjectFiles: 395 of which compiled: 4
+  	Time Compile: 1695 milliseconds Il2CppMetadataUsage.c
+  	Time Compile: 538 milliseconds Assembly-CSharp.cpp
+  	Time Compile: 425 milliseconds Il2CppMetadataRegistration.c
+  	Time Compile: 422 milliseconds Assembly-CSharp_CodeGen.c
+  Total compilation time: 2234 milliseconds.
+  Cr�ation de la biblioth�que D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\il2cppOutputProject\ARM\Release\linkresult_0B8D56F70BD340F5ED24AB1F98775BE4\GameAssembly.lib et de l'objet D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\il2cppOutputProject\ARM\Release\linkresult_0B8D56F70BD340F5ED24AB1F98775BE4\GameAssembly.exp
+  Total link time: 45977 milliseconds.
+  Cleaned up 10 object files.

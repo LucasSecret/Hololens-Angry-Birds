@@ -1,0 +1,9 @@
+﻿  App.cpp
+  UnityGenerated.cpp
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\Angry Birds Hololens\App.cpp(26,1): warning C4973: 'Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set' : marqué comme déconseillé
+D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\Angry Birds Hololens\App.cpp(26,1): message : Message : 'Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.'
+  Génération de code en cours
+  Fin de la génération du code
+  Angry Birds Hololens.vcxproj -> D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\bin\ARM\Release\Angry Birds Hololens.exe
+  Angry Birds Hololens -> D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\AppPackages\Angry Birds Hololens\Angry Birds Hololens_1.0.2.0_ARM_Test\Angry Birds Hololens_1.0.2.0_ARM.appx
+  Angry Birds Hololens -> D:\Etudes\ENSAM\M2\WindowsGameJam\Hololens-Angry-Birds\CleanBuild\build\obj\Angry Birds Hololens\ARM\Release\Symbols\Angry Birds Hololens_1.0.2.0_ARM.appxsym
